@@ -1,0 +1,1 @@
+cd "d:\VIVEK\PROGRAMMING\c++\file handling\" ; if ($?) { g++ filehandle1.cpp -o filehandle1 } ; if vike 24vike 24vike 23vivek 18
